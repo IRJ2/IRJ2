@@ -95,7 +95,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <hr/>
 
 <p align="right">
-<img src="https://badges.pufler.dev/visits/IRJ2/IRJ2?color=black&logo=github" />
+
 </p>
 
 
