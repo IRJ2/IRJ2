@@ -96,6 +96,8 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 <p align="right">
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=IRJ2.visitor-badge&left_color=red&right_color=green) 
+
 </p>
 
 
