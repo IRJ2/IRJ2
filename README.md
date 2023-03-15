@@ -3,7 +3,7 @@
 ### :space_invader: &nbsp;About Me
 <p>A passionate self-taught full stack web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. </p>
 <p>Always curious to learn new things each day🌱.</p>
-<p>Right now working on developing a travel package booking web application.</p>
+<p>Right now working on developing a blockchain based vehicle registration record maintenance system.</p>
 <p>Currently, learning React js and DSA :wink:.</p>
 <p>Sticking to the motto "Dare to begin"🦸‍♀️.</p>
 
